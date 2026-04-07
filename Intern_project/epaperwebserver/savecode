@@ -1,0 +1,150 @@
+#include <WiFi.h>
+#include <HTTPClient.h>
+#include <ArduinoJson.h>
+#include <GxEPD2.h>
+#include "GxEPD2_BW.h"
+#include "GxEPD2_3C.h"
+#include "FreeMonoBold9pt7b.h"
+#include "free3of920pt7b.h"
+#include "dw_font.h"
+#include <BarcodeGFX.h>
+
+const char* ssid = "free_wifi_new";        // ชื่อ Wi-Fi
+const char* password = ""; // รหัสผ่าน Wi-Fi
+const char* server_url = "http://110.49.142.178/Ternproject/send_to_epaper.php"; // URL ของเซิร์ฟเวอร์
+
+#define SSID_ADDR 0          // ที่อยู่สำหรับ SSID
+#define PASSWORD_ADDR 32     // ที่อยู่สำหรับ Password
+#define CONNECT_TIMEOUT 10000 // เวลา Timeout (10 วินาที)
+
+extern dw_font_info_t font_sarabun_20;
+dw_font_t myfont;
+
+#include "GxEPD2_display_selection.h"
+
+BarcodeGFX barcode(display);
+
+unsigned long lastUpdateTime = 0;  // เวลาอัปเดตล่าสุด
+const unsigned long updateInterval = 300000;  // 5 นาที (5*60*1000 มิลลิวินาที)
+
+void draw_pixel(int16_t x, int16_t y, uint16_t color) {
+    display.drawPixel(x, y, color);
+}
+
+// ฟังก์ชันที่ใช้ในการเคลียร์พิกเซล
+void clear_pixel(int16_t x, int16_t y) {
+    display.drawPixel(x, y, GxEPD_WHITE);
+}
+
+void displayProductInfo(const char* description, float price, const char* changeDate) {
+    dw_font_setfont(&myfont, &font_sarabun_20);
+    dw_font_goto(&myfont, 5, 20);
+    dw_font_print(&myfont, const_cast<char*>(description), GxEPD_BLACK);
+
+    dw_font_goto(&myfont, 5, 50);
+    dw_font_print(&myfont, ("Price: " + String(price)).c_str(), GxEPD_BLACK);
+
+    dw_font_goto(&myfont, 5, 80);
+    dw_font_print(&myfont, ("Change Date: " + String(changeDate)).c_str(), GxEPD_BLACK);
+}
+
+void fetchProductData() {
+    WiFiClient client;  // สร้าง WiFiClient
+    HTTPClient http;
+    
+    Serial.println("Connecting to: " + String(server_url));
+    
+    http.begin(client, server_url);
+    http.setUserAgent("ESP32");  // ป้องกันการถูกบล็อกจากบางเซิร์ฟเวอร์
+    http.addHeader("Content-Type", "application/json");
+
+    // สร้าง JSON payload
+    String jsonPayload = "{\"product_id\":116999457}";
+    int httpResponseCode = http.POST(jsonPayload);
+
+    if (httpResponseCode > 0) {
+        String payload = http.getString();
+        Serial.println("HTTP Response code: " + String(httpResponseCode));
+        Serial.println("Response: " + payload);  // ตรวจสอบ JSON ที่ได้รับ
+
+        StaticJsonDocument<1024> doc;
+        DeserializationError error = deserializeJson(doc, payload);
+
+        if (error) {
+            Serial.println("Error parsing JSON");
+            return;
+        }
+
+        // ตรวจสอบว่า JSON มีค่าที่ต้องการหรือไม่
+        if (!doc.containsKey("description") || !doc.containsKey("prc01") || !doc.containsKey("chgdat")) {
+            Serial.println("ERROR: JSON format incorrect or missing keys");
+            return;
+        }
+
+        const char* description = doc["description"];
+        float prc01 = doc["prc01"];
+        const char* chgdat = doc["chgdat"];
+
+        Serial.println("Parsed JSON:");
+        Serial.println("Description: " + String(description));
+        Serial.println("Price: " + String(prc01));
+        Serial.println("Date: " + String(chgdat));
+
+        // --- แสดงผลบน e-paper ---
+        dw_font_init(&myfont, display.epd2.WIDTH, display.epd2.HEIGHT, draw_pixel, clear_pixel);
+        display.setTextColor(GxEPD_BLACK);
+        display.setFullWindow();
+
+        display.firstPage();
+        do {
+            display.fillScreen(GxEPD_WHITE);
+            displayProductInfo(description, prc01, chgdat);
+        } while (display.nextPage());
+
+        display.display();
+    } else {
+        Serial.printf("Error on HTTP request: %d\n", httpResponseCode);
+    }
+
+    http.end();
+}
+
+void connectToWiFi() {
+    Serial.begin(115200);  // เริ่มการสื่อสารผ่าน Serial
+    Serial.println("Connecting to WiFi...");
+  
+    WiFi.begin(ssid, password); // เริ่มการเชื่อมต่อกับ Wi-Fi
+  
+    while (WiFi.status() != WL_CONNECTED) {  // ตรวจสอบสถานะการเชื่อมต่อ
+        delay(1000);  // รอ 1 วินาที
+        Serial.println("Connecting...");
+    }
+  
+    Serial.println("Connected to WiFi!");
+    Serial.print("IP Address: ");
+    Serial.println(WiFi.localIP());  // แสดง IP ที่ได้จากการเชื่อมต่อ
+
+    // ดึงข้อมูลจากฐานข้อมูลมาแสดงเป็นตัวอย่าง
+    fetchProductData();
+}
+
+void setup() {
+    uint32_t dt = millis();
+    display.init();
+    display.setRotation(1);
+    display.setFullWindow();
+    display.fillScreen(GxEPD_WHITE);
+    Serial.begin(115200);
+    connectToWiFi();  // เชื่อมต่อ Wi-Fi
+    
+    lastUpdateTime = millis();  // บันทึกเวลาเริ่มต้น
+}
+void loop() {
+    unsigned long currentTime = millis();
+    // เช็คว่าผ่านเวลา 5 นาทีหรือยัง
+    if (currentTime - lastUpdateTime >= updateInterval) {
+        Serial.println("5 minutes passed, updating product data...");
+        fetchProductData();  // ดึงข้อมูลสินค้าจากเซิร์ฟเวอร์
+        lastUpdateTime = currentTime;  // รีเซ็ตเวลา
+    }
+}

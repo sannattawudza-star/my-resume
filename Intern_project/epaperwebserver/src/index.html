@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Product Update</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<div class="container">
+    <h2>📦 Update Product</h2>
+    <form id="productForm">
+        <label for="stkcod">Enter Product Code (stkcod):</label>
+        <input type="text" id="stkcod" name="stkcod" required>
+        <button type="button" onclick="sendToEPaper()">Send</button>
+    </form>
+</div>
+
+<script>
+function sendToEPaper() {
+    const stkcod = document.getElementById('stkcod').value;
+    fetch('select_product.php', {
+        method: 'POST',
+        headers: {
+            'Content-Type': 'application/json'
+        },
+        body: JSON.stringify({ stkcod: stkcod })
+    })
+    .then(response => response.json())
+    .then(data => {
+        if (data.error) {
+            alert('❌ Error: ' + data.error);
+        } else {
+            // ส่งข้อมูลไปยัง ESP32 โดยใช้ HTTP GET request
+            fetch('http://192.168.30.76/?product_id=' + encodeURIComponent(stkcod) + '&description=' + encodeURIComponent(data.description) + '&prc01=' + encodeURIComponent(data.prc01) + '&chgdat=' + encodeURIComponent(data.chgdat), {
+                method: 'GET'
+            })
+            .then(response => response.text())
+            .then(text => {
+                console.log("Raw Response:", text);
+                try {
+                    let esp32Data = JSON.parse(text);
+                    console.log("Parsed JSON:", esp32Data);
+                    if (esp32Data.error) {
+                        alert('❌ Error: ' + esp32Data.error);
+                    } else {
+                        alert('✅ ' + (esp32Data.message || "Data sent successfully!"));
+                    }
+                } catch (error) {
+                    console.error("JSON Parse Error:", error);
+                    alert('❌ JSON Parse Error: ' + error.message);
+                }
+            })
+            .catch(error => {
+                console.error("Fetch Error:", error);
+                alert('❌ Fetch Error: ' + error.message);
+            });
+        }
+    })
+    .catch(error => {
+        console.error("Fetch Error:", error);
+        alert('❌ Fetch Error: ' + error.message);
+    });
+}
+</script>
+
+</body>
+</html>

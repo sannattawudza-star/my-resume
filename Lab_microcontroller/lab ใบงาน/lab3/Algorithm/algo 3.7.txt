@@ -1,0 +1,95 @@
+Algorithm 3.7
+VariaBle sw1,sw2,D0,D1,D2,D3,D4,led,i
+
+Begin setup
+	set pin d0=INPUT
+	set pin d1=INPUT
+	set pin d2=INPUT
+	set pin d3=INPUT
+	set pin d4=INPUT
+	set pin sw1=INPUT
+	set pin	sw2=INPUT
+	set Serial bein=9600
+	Print"Choose GATE"
+	print"1. AND GATE "
+	print"2. OR GATE "
+	print"2. NOT GATE "
+	print"4. NOR GATE "
+	print"5. NAND GATE "
+	Variable sw11=digitalRead(sw1)
+	Variable sw22=digitalRead(sw2)
+	for i=0 to 1
+		if(digitalRead(D0)==1) Then
+			Print "Choose AND GATE"
+			i=1
+		END if
+		else if(digitalRead(D1)==1) Then
+			Print "Choose OR GATE"
+			i=2
+		END else if
+		else if(digitalRead(D2)==1) Then
+			Print "Choose NOT GATE"
+			i=3
+		END else if
+		else if(digitalRead(D3)==1) Then
+			Print "Choose NOR GATE"
+			i=4
+		END else if
+		else if(digitalRead(D4)==1) Then
+			Print "Choose OR GATE"
+			i=5
+		END else if
+	END for
+		if(i==1) Then  ##AND
+			if(sw11==1&&sw22==1) Then
+				Print"OUTPUT is 1"
+				Set logic=1
+			End ifaa
+			Else Then
+				Print"OUTPUT is 0"
+				Set logic=0
+			END Else
+		END if
+		if(i==1) Then	##OR
+			if(sw11==0 && sw22==0) Then
+				Print"OUTPUT is 0"
+				Set logic=0
+			End if
+			Else Then
+				Print"OUTPUT is 1"
+				Set logic=1
+			END Else
+		END if
+		if(i==1) Then	##NOT
+			if(sw11==0 || sw22==0) Then
+				Print"OUTPUT is 1"
+				Set logic=1
+			End if
+			Else Then
+				Print"OUTPUT is 0"
+				Set logic=0
+			END Else
+		END if
+		if(i==1) Then	##NOR
+			if(sw11==0 && sw22==0) Then
+				Print"OUTPUT is 1"
+				Set logic=1
+			End if
+			Else Then
+				Print"OUTPUT is 0"
+				Set logic=0
+			END Else
+		END if
+		if(i==1) Then	##NAND
+			if(sw11==1&&sw22==1) Then
+				Print"OUTPUT is 0"
+				Set logic=0
+			End if
+			Else Then
+				Print"OUTPUT is 1"
+				Set logic=1
+			END Else
+		END if
+END Setup
+Begin loop Then
+End loop

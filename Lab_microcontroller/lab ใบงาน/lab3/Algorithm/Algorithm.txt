@@ -1,0 +1,22 @@
+Algotithm 3.3
+Variable i,led;
+Begin setup		
+	 for led=0 to led=7
+	 	set pin led(i)=OUTPUT;
+	 End for
+End setup
+Begin loop
+	 for led=0 to led=7
+		 set output logic=0;
+		 set delay=250
+	 End for
+	 for led=0 to led=7
+	 	set output logic=1
+	 	set delay=250
+	 End for
+End loop
+
+	 
+	
+	  
+	

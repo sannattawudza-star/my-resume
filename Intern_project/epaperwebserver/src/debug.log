@@ -1,0 +1,2084 @@
+Received data: Array
+(
+    [id] => 5
+)
+
+Payload: {"product_name":"\u0e19\u0e49\u0e33\u0e40\u0e02\u0e35\u0e22\u0e27","price":"20.00","timestamp":"2025-02-18 08:03:05"}
+Response: 
+HTTP Code: 0
+Received data: Array
+(
+    [id] => 5
+)
+
+Payload: {"product_name":"\u0e19\u0e49\u0e33\u0e40\u0e02\u0e35\u0e22\u0e27","price":"20.00","timestamp":"2025-02-18 08:03:05"}
+Response: 
+HTTP Code: 0
+Received data: Array
+(
+    [id] => 2
+)
+
+Payload: {"product_name":"\u0e2a\u0e34\u0e19\u0e04\u0e49\u0e321","price":"50.00","timestamp":"2025-02-18 12:54:54"}
+Response: 
+HTTP Code: 0
+Received data: Array
+(
+    [id] => 2
+)
+
+Payload: {"product_name":"\u0e2a\u0e34\u0e19\u0e04\u0e49\u0e321","price":"50.00","timestamp":"2025-02-18 12:54:54"}
+Response: 
+HTTP Code: 0
+Received data: Array
+(
+    [id] => 2
+)
+
+Payload: {"product_name":"\u0e2a\u0e34\u0e19\u0e04\u0e49\u0e321","price":"50.00","timestamp":"2025-02-18 12:54:54"}
+Response: 
+HTTP Code: 0
+cURL Error: Failed to connect to 192.168.37.66 port 80 after 2481 ms: Couldn't connect to server
+Received data: Array
+(
+    [id] => 2
+)
+
+Payload: {"product_name":"\u0e2a\u0e34\u0e19\u0e04\u0e49\u0e321","price":"50.00","timestamp":"2025-02-18 12:54:54"}
+Response: 
+HTTP Code: 0
+cURL Error: Failed to connect to 192.168.37.66 port 80 after 2520 ms: Couldn't connect to server
+Received data: Array
+(
+    [id] => 5
+)
+
+Payload: {"product_name":"\u0e19\u0e49\u0e33\u0e40\u0e02\u0e35\u0e22\u0e27","price":"20.00","timestamp":"2025-02-18 08:03:05"}
+Response: 
+HTTP Code: 0
+cURL Error: Failed to connect to 192.168.37.66 port 80 after 2916 ms: Couldn't connect to server
+Received data: Array
+(
+    [id] => 5
+)
+
+Payload: {"product_name":"\u0e19\u0e49\u0e33\u0e40\u0e02\u0e35\u0e22\u0e27","price":"20.00","timestamp":"2025-02-18 08:03:05"}
+Response: 
+HTTP Code: 0
+cURL Error: Failed to connect to 192.168.37.66 port 80 after 2491 ms: Couldn't connect to server
+Received data: Array
+(
+    [id] => 2
+)
+
+Payload: {"product_name":"\u0e2a\u0e34\u0e19\u0e04\u0e49\u0e321","price":"50.00","timestamp":"2025-02-18 12:54:54"}
+Response: 
+HTTP Code: 0
+cURL Error: Failed to connect to 192.168.37.66 port 80 after 2532 ms: Couldn't connect to server
+Received data: Array
+(
+    [id] => 1
+)
+
+Payload: {"product_name":"Example Product 1","price":"99.99","timestamp":"2025-02-18 12:53:59"}
+Response: 
+HTTP Code: 0
+cURL Error: Failed to connect to 192.168.37.66 port 80 after 2542 ms: Couldn't connect to server
+Received data: Array
+(
+    [id] => 1
+)
+
+Payload: {"product_name":"Example Product 1","price":"99.99","timestamp":"2025-02-18 12:53:59"}
+Response: 
+HTTP Code: 0
+cURL Error: Failed to connect to 192.168.37.66 port 80 after 2576 ms: Couldn't connect to server
+Received data: Array
+(
+    [id] => 2
+)
+
+Payload: {"product_name":"\u0e2a\u0e34\u0e19\u0e04\u0e49\u0e321","price":"50.00","timestamp":"2025-02-18 12:54:54"}
+Response: 
+HTTP Code: 0
+cURL Error: Failed to connect to 192.168.37.66 port 80 after 2465 ms: Couldn't connect to server
+Received data: Array
+(
+    [id] => 2
+)
+
+Payload: {"product_name":"\u0e2a\u0e34\u0e19\u0e04\u0e49\u0e321","price":"50.00","timestamp":"2025-02-18 12:54:54"}
+Response: 
+HTTP Code: 0
+cURL Error: Failed to connect to 192.168.37.66 port 80 after 2442 ms: Couldn't connect to server
+Received data: Array
+(
+    [id] => 5
+)
+
+Payload: {"product_name":"\u0e19\u0e49\u0e33\u0e40\u0e02\u0e35\u0e22\u0e27","price":"20.00","timestamp":"2025-02-18 08:03:05"}
+Response: 
+HTTP Code: 0
+cURL Error: Failed to connect to 192.168.37.66 port 80 after 2585 ms: Couldn't connect to server
+Received data: Array
+(
+)
+
+Received data: Array
+(
+    [id] => 2
+)
+
+Payload: {"product_name":"\u0e2a\u0e34\u0e19\u0e04\u0e49\u0e321","price":"50.00","timestamp":"2025-02-18 12:54:54"}
+Response: 
+HTTP Code: 0
+cURL Error: Failed to connect to 192.168.37.66 port 80 after 2589 ms: Couldn't connect to server
+Received data: Array
+(
+    [id] => 2
+)
+
+Payload: {"product_name":"\u0e2a\u0e34\u0e19\u0e04\u0e49\u0e321","price":"50.00","timestamp":"2025-02-18 12:54:54"}
+Response: 
+HTTP Code: 0
+cURL Error: Failed to connect to 192.168.37.66 port 80 after 2554 ms: Couldn't connect to server
+Received data: Array
+(
+    [id] => 5
+)
+
+Payload: {"product_name":"\u0e19\u0e49\u0e33\u0e40\u0e02\u0e35\u0e22\u0e27","price":"20.00","timestamp":"2025-02-18 08:03:05"}
+Response: 
+HTTP Code: 0
+cURL Error: Failed to connect to 192.168.37.66 port 80 after 2483 ms: Couldn't connect to server
+Received data: Array
+(
+    [id] => 2
+)
+
+Payload: {"product_name":"\u0e2a\u0e34\u0e19\u0e04\u0e49\u0e321","price":"50.00","timestamp":"2025-02-18 12:54:54"}
+Response: 
+HTTP Code: 0
+cURL Error: Failed to connect to 192.168.37.66 port 80 after 2687 ms: Couldn't connect to server
+Received data: Array
+(
+)
+
+Received data: Array
+(
+    [id] => 2
+)
+
+Payload: {"product_name":"\u0e2a\u0e34\u0e19\u0e04\u0e49\u0e321","price":"50.00","timestamp":"2025-02-18 12:54:54"}
+Response: 
+HTTP Code: 0
+cURL Error: Failed to connect to 192.168.37.66 port 80 after 2521 ms: Couldn't connect to server
+Received data: Array
+(
+    [id] => 2
+)
+
+Payload: {"product_name":"\u0e2a\u0e34\u0e19\u0e04\u0e49\u0e321","price":"50.00","timestamp":"2025-02-18 12:54:54"}
+Response: 
+HTTP Code: 0
+cURL Error: Failed to connect to 192.168.37.66 port 80 after 2516 ms: Couldn't connect to server
+Received data: Array
+(
+    [id] => 2
+)
+
+Payload: {"product_name":"\u0e2a\u0e34\u0e19\u0e04\u0e49\u0e321","price":"50.00","timestamp":"2025-02-18 12:54:54"}
+Response: 
+HTTP Code: 0
+cURL Error: Failed to connect to 192.168.37.66 port 80 after 2453 ms: Couldn't connect to server
+Received data: Array
+(
+    [id] => 2
+)
+
+Payload: {"product_name":"\u0e2a\u0e34\u0e19\u0e04\u0e49\u0e321","price":"50.00","timestamp":"2025-02-18 12:54:54"}
+Response: 
+HTTP Code: 0
+cURL Error: Failed to connect to 192.168.37.66 port 80 after 2445 ms: Couldn't connect to server
+Received data: Array
+(
+    [id] => 2
+)
+
+Payload: {"product_name":"\u0e2a\u0e34\u0e19\u0e04\u0e49\u0e321","price":"50.00","timestamp":"2025-02-18 12:54:54"}
+cURL Options: Array
+(
+    [url] => http://192.168.37.66/update_display
+    [content_type] => 
+    [http_code] => 0
+    [header_size] => 0
+    [request_size] => 0
+    [filetime] => -1
+    [ssl_verify_result] => 0
+    [redirect_count] => 0
+    [total_time] => 0
+    [namelookup_time] => 0
+    [connect_time] => 0
+    [pretransfer_time] => 0
+    [size_upload] => 0
+    [size_download] => 0
+    [speed_download] => 0
+    [speed_upload] => 0
+    [download_content_length] => -1
+    [upload_content_length] => -1
+    [starttransfer_time] => 0
+    [redirect_time] => 0
+    [redirect_url] => 
+    [primary_ip] => 
+    [certinfo] => Array
+        (
+        )
+
+    [primary_port] => 0
+    [local_ip] => 
+    [local_port] => 0
+    [http_version] => 0
+    [protocol] => 0
+    [ssl_verifyresult] => 0
+    [scheme] => 
+    [appconnect_time_us] => 0
+    [connect_time_us] => 0
+    [namelookup_time_us] => 0
+    [pretransfer_time_us] => 0
+    [redirect_time_us] => 0
+    [starttransfer_time_us] => 0
+    [total_time_us] => 0
+    [effective_method] => POST
+)
+
+Response: 
+HTTP Code: 0
+cURL Error: Failed to connect to 192.168.37.66 port 80 after 2463 ms: Couldn't connect to server
+Received data: Array
+(
+    [id] => 2
+)
+
+Payload: {"product_name":"\u0e2a\u0e34\u0e19\u0e04\u0e49\u0e321","price":"50.00","timestamp":"2025-02-18 12:54:54"}
+cURL Options: Array
+(
+    [url] => http://192.168.37.66/update_display
+    [content_type] => 
+    [http_code] => 0
+    [header_size] => 0
+    [request_size] => 0
+    [filetime] => -1
+    [ssl_verify_result] => 0
+    [redirect_count] => 0
+    [total_time] => 0
+    [namelookup_time] => 0
+    [connect_time] => 0
+    [pretransfer_time] => 0
+    [size_upload] => 0
+    [size_download] => 0
+    [speed_download] => 0
+    [speed_upload] => 0
+    [download_content_length] => -1
+    [upload_content_length] => -1
+    [starttransfer_time] => 0
+    [redirect_time] => 0
+    [redirect_url] => 
+    [primary_ip] => 
+    [certinfo] => Array
+        (
+        )
+
+    [primary_port] => 0
+    [local_ip] => 
+    [local_port] => 0
+    [http_version] => 0
+    [protocol] => 0
+    [ssl_verifyresult] => 0
+    [scheme] => 
+    [appconnect_time_us] => 0
+    [connect_time_us] => 0
+    [namelookup_time_us] => 0
+    [pretransfer_time_us] => 0
+    [redirect_time_us] => 0
+    [starttransfer_time_us] => 0
+    [total_time_us] => 0
+    [effective_method] => POST
+)
+
+Response: 
+HTTP Code: 0
+cURL Error: Failed to connect to 192.168.37.66 port 80 after 2414 ms: Couldn't connect to server
+Received data: Array
+(
+    [id] => 1
+)
+
+Payload: {"product_name":"Example Product 1","price":"99.99","timestamp":"2025-02-18 12:53:59"}
+cURL Options: Array
+(
+    [url] => http://192.168.37.66/update_display
+    [content_type] => 
+    [http_code] => 0
+    [header_size] => 0
+    [request_size] => 0
+    [filetime] => -1
+    [ssl_verify_result] => 0
+    [redirect_count] => 0
+    [total_time] => 0
+    [namelookup_time] => 0
+    [connect_time] => 0
+    [pretransfer_time] => 0
+    [size_upload] => 0
+    [size_download] => 0
+    [speed_download] => 0
+    [speed_upload] => 0
+    [download_content_length] => -1
+    [upload_content_length] => -1
+    [starttransfer_time] => 0
+    [redirect_time] => 0
+    [redirect_url] => 
+    [primary_ip] => 
+    [certinfo] => Array
+        (
+        )
+
+    [primary_port] => 0
+    [local_ip] => 
+    [local_port] => 0
+    [http_version] => 0
+    [protocol] => 0
+    [ssl_verifyresult] => 0
+    [scheme] => 
+    [appconnect_time_us] => 0
+    [connect_time_us] => 0
+    [namelookup_time_us] => 0
+    [pretransfer_time_us] => 0
+    [redirect_time_us] => 0
+    [starttransfer_time_us] => 0
+    [total_time_us] => 0
+    [effective_method] => POST
+)
+
+Response: Not found: /update_display
+HTTP Code: 404
+Received data: Array
+(
+    [id] => 1
+)
+
+Payload: {"product_name":"Example Product 1","price":"99.99","timestamp":"2025-02-18 12:53:59"}
+cURL Options: Array
+(
+    [url] => http://192.168.37.66/update_display
+    [content_type] => 
+    [http_code] => 0
+    [header_size] => 0
+    [request_size] => 0
+    [filetime] => -1
+    [ssl_verify_result] => 0
+    [redirect_count] => 0
+    [total_time] => 0
+    [namelookup_time] => 0
+    [connect_time] => 0
+    [pretransfer_time] => 0
+    [size_upload] => 0
+    [size_download] => 0
+    [speed_download] => 0
+    [speed_upload] => 0
+    [download_content_length] => -1
+    [upload_content_length] => -1
+    [starttransfer_time] => 0
+    [redirect_time] => 0
+    [redirect_url] => 
+    [primary_ip] => 
+    [certinfo] => Array
+        (
+        )
+
+    [primary_port] => 0
+    [local_ip] => 
+    [local_port] => 0
+    [http_version] => 0
+    [protocol] => 0
+    [ssl_verifyresult] => 0
+    [scheme] => 
+    [appconnect_time_us] => 0
+    [connect_time_us] => 0
+    [namelookup_time_us] => 0
+    [pretransfer_time_us] => 0
+    [redirect_time_us] => 0
+    [starttransfer_time_us] => 0
+    [total_time_us] => 0
+    [effective_method] => POST
+)
+
+Response: Not found: /update_display
+HTTP Code: 404
+Received data: Array
+(
+    [id] => 5
+)
+
+Payload: {"product_name":"\u0e19\u0e49\u0e33\u0e40\u0e02\u0e35\u0e22\u0e27","price":"20.00","timestamp":"2025-02-18 08:03:05"}
+cURL Options: Array
+(
+    [url] => http://192.168.37.66/update_display
+    [content_type] => 
+    [http_code] => 0
+    [header_size] => 0
+    [request_size] => 0
+    [filetime] => -1
+    [ssl_verify_result] => 0
+    [redirect_count] => 0
+    [total_time] => 0
+    [namelookup_time] => 0
+    [connect_time] => 0
+    [pretransfer_time] => 0
+    [size_upload] => 0
+    [size_download] => 0
+    [speed_download] => 0
+    [speed_upload] => 0
+    [download_content_length] => -1
+    [upload_content_length] => -1
+    [starttransfer_time] => 0
+    [redirect_time] => 0
+    [redirect_url] => 
+    [primary_ip] => 
+    [certinfo] => Array
+        (
+        )
+
+    [primary_port] => 0
+    [local_ip] => 
+    [local_port] => 0
+    [http_version] => 0
+    [protocol] => 0
+    [ssl_verifyresult] => 0
+    [scheme] => 
+    [appconnect_time_us] => 0
+    [connect_time_us] => 0
+    [namelookup_time_us] => 0
+    [pretransfer_time_us] => 0
+    [redirect_time_us] => 0
+    [starttransfer_time_us] => 0
+    [total_time_us] => 0
+    [effective_method] => POST
+)
+
+Response: Not found: /update_display
+HTTP Code: 404
+Received data: Array
+(
+    [id] => 2
+)
+
+Payload: {"product_name":"\u0e2a\u0e34\u0e19\u0e04\u0e49\u0e321","price":"50.00","timestamp":"2025-02-18 12:54:54"}
+cURL Options: Array
+(
+    [url] => http://192.168.37.66/update_display
+    [content_type] => 
+    [http_code] => 0
+    [header_size] => 0
+    [request_size] => 0
+    [filetime] => -1
+    [ssl_verify_result] => 0
+    [redirect_count] => 0
+    [total_time] => 0
+    [namelookup_time] => 0
+    [connect_time] => 0
+    [pretransfer_time] => 0
+    [size_upload] => 0
+    [size_download] => 0
+    [speed_download] => 0
+    [speed_upload] => 0
+    [download_content_length] => -1
+    [upload_content_length] => -1
+    [starttransfer_time] => 0
+    [redirect_time] => 0
+    [redirect_url] => 
+    [primary_ip] => 
+    [certinfo] => Array
+        (
+        )
+
+    [primary_port] => 0
+    [local_ip] => 
+    [local_port] => 0
+    [http_version] => 0
+    [protocol] => 0
+    [ssl_verifyresult] => 0
+    [scheme] => 
+    [appconnect_time_us] => 0
+    [connect_time_us] => 0
+    [namelookup_time_us] => 0
+    [pretransfer_time_us] => 0
+    [redirect_time_us] => 0
+    [starttransfer_time_us] => 0
+    [total_time_us] => 0
+    [effective_method] => POST
+)
+
+Response: 
+HTTP Code: 0
+cURL Error: Failed to connect to 192.168.37.66 port 80 after 2483 ms: Couldn't connect to server
+Received data: Array
+(
+    [id] => 2
+)
+
+Payload: {"product_name":"\u0e2a\u0e34\u0e19\u0e04\u0e49\u0e321","price":"50.00","timestamp":"2025-02-18 12:54:54"}
+cURL Options: Array
+(
+    [url] => http://192.168.37.66/update_display
+    [content_type] => 
+    [http_code] => 0
+    [header_size] => 0
+    [request_size] => 0
+    [filetime] => -1
+    [ssl_verify_result] => 0
+    [redirect_count] => 0
+    [total_time] => 0
+    [namelookup_time] => 0
+    [connect_time] => 0
+    [pretransfer_time] => 0
+    [size_upload] => 0
+    [size_download] => 0
+    [speed_download] => 0
+    [speed_upload] => 0
+    [download_content_length] => -1
+    [upload_content_length] => -1
+    [starttransfer_time] => 0
+    [redirect_time] => 0
+    [redirect_url] => 
+    [primary_ip] => 
+    [certinfo] => Array
+        (
+        )
+
+    [primary_port] => 0
+    [local_ip] => 
+    [local_port] => 0
+    [http_version] => 0
+    [protocol] => 0
+    [ssl_verifyresult] => 0
+    [scheme] => 
+    [appconnect_time_us] => 0
+    [connect_time_us] => 0
+    [namelookup_time_us] => 0
+    [pretransfer_time_us] => 0
+    [redirect_time_us] => 0
+    [starttransfer_time_us] => 0
+    [total_time_us] => 0
+    [effective_method] => POST
+)
+
+Response: 
+HTTP Code: 0
+cURL Error: Failed to connect to 192.168.37.66 port 80 after 2473 ms: Couldn't connect to server
+Received data: Array
+(
+    [id] => 1
+)
+
+Payload: {"product_name":"Example Product 1","price":"99.99","timestamp":"2025-02-18 12:53:59"}
+cURL Options: Array
+(
+    [url] => http://192.168.37.66/update_display
+    [content_type] => 
+    [http_code] => 0
+    [header_size] => 0
+    [request_size] => 0
+    [filetime] => -1
+    [ssl_verify_result] => 0
+    [redirect_count] => 0
+    [total_time] => 0
+    [namelookup_time] => 0
+    [connect_time] => 0
+    [pretransfer_time] => 0
+    [size_upload] => 0
+    [size_download] => 0
+    [speed_download] => 0
+    [speed_upload] => 0
+    [download_content_length] => -1
+    [upload_content_length] => -1
+    [starttransfer_time] => 0
+    [redirect_time] => 0
+    [redirect_url] => 
+    [primary_ip] => 
+    [certinfo] => Array
+        (
+        )
+
+    [primary_port] => 0
+    [local_ip] => 
+    [local_port] => 0
+    [http_version] => 0
+    [protocol] => 0
+    [ssl_verifyresult] => 0
+    [scheme] => 
+    [appconnect_time_us] => 0
+    [connect_time_us] => 0
+    [namelookup_time_us] => 0
+    [pretransfer_time_us] => 0
+    [redirect_time_us] => 0
+    [starttransfer_time_us] => 0
+    [total_time_us] => 0
+    [effective_method] => POST
+)
+
+Response: {"message":"Display updated successfully"}
+HTTP Code: 200
+Received data: Array
+(
+    [id] => 5
+)
+
+Payload: {"product_name":"\u0e19\u0e49\u0e33\u0e40\u0e02\u0e35\u0e22\u0e27","price":"20.00","timestamp":"2025-02-18 08:03:05"}
+cURL Options: Array
+(
+    [url] => http://192.168.37.66/update_display
+    [content_type] => 
+    [http_code] => 0
+    [header_size] => 0
+    [request_size] => 0
+    [filetime] => -1
+    [ssl_verify_result] => 0
+    [redirect_count] => 0
+    [total_time] => 0
+    [namelookup_time] => 0
+    [connect_time] => 0
+    [pretransfer_time] => 0
+    [size_upload] => 0
+    [size_download] => 0
+    [speed_download] => 0
+    [speed_upload] => 0
+    [download_content_length] => -1
+    [upload_content_length] => -1
+    [starttransfer_time] => 0
+    [redirect_time] => 0
+    [redirect_url] => 
+    [primary_ip] => 
+    [certinfo] => Array
+        (
+        )
+
+    [primary_port] => 0
+    [local_ip] => 
+    [local_port] => 0
+    [http_version] => 0
+    [protocol] => 0
+    [ssl_verifyresult] => 0
+    [scheme] => 
+    [appconnect_time_us] => 0
+    [connect_time_us] => 0
+    [namelookup_time_us] => 0
+    [pretransfer_time_us] => 0
+    [redirect_time_us] => 0
+    [starttransfer_time_us] => 0
+    [total_time_us] => 0
+    [effective_method] => POST
+)
+
+Response: {"message":"Display updated successfully"}
+HTTP Code: 200
+Received data: Array
+(
+    [id] => 5
+)
+
+Payload: {"product_name":"\u0e19\u0e49\u0e33\u0e40\u0e02\u0e35\u0e22\u0e27","price":"20.00","timestamp":"2025-02-18 08:03:05"}
+cURL Options: Array
+(
+    [url] => http://192.168.37.66/update_display
+    [content_type] => 
+    [http_code] => 0
+    [header_size] => 0
+    [request_size] => 0
+    [filetime] => -1
+    [ssl_verify_result] => 0
+    [redirect_count] => 0
+    [total_time] => 0
+    [namelookup_time] => 0
+    [connect_time] => 0
+    [pretransfer_time] => 0
+    [size_upload] => 0
+    [size_download] => 0
+    [speed_download] => 0
+    [speed_upload] => 0
+    [download_content_length] => -1
+    [upload_content_length] => -1
+    [starttransfer_time] => 0
+    [redirect_time] => 0
+    [redirect_url] => 
+    [primary_ip] => 
+    [certinfo] => Array
+        (
+        )
+
+    [primary_port] => 0
+    [local_ip] => 
+    [local_port] => 0
+    [http_version] => 0
+    [protocol] => 0
+    [ssl_verifyresult] => 0
+    [scheme] => 
+    [appconnect_time_us] => 0
+    [connect_time_us] => 0
+    [namelookup_time_us] => 0
+    [pretransfer_time_us] => 0
+    [redirect_time_us] => 0
+    [starttransfer_time_us] => 0
+    [total_time_us] => 0
+    [effective_method] => POST
+)
+
+Response: {"message":"Display updated successfully"}
+HTTP Code: 200
+Received data: Array
+(
+    [id] => 2
+)
+
+Payload: {"product_name":"\u0e2a\u0e34\u0e19\u0e04\u0e49\u0e321","price":"50.00","timestamp":"2025-02-18 12:54:54"}
+cURL Options: Array
+(
+    [url] => http://192.168.37.66/update_display
+    [content_type] => 
+    [http_code] => 0
+    [header_size] => 0
+    [request_size] => 0
+    [filetime] => -1
+    [ssl_verify_result] => 0
+    [redirect_count] => 0
+    [total_time] => 0
+    [namelookup_time] => 0
+    [connect_time] => 0
+    [pretransfer_time] => 0
+    [size_upload] => 0
+    [size_download] => 0
+    [speed_download] => 0
+    [speed_upload] => 0
+    [download_content_length] => -1
+    [upload_content_length] => -1
+    [starttransfer_time] => 0
+    [redirect_time] => 0
+    [redirect_url] => 
+    [primary_ip] => 
+    [certinfo] => Array
+        (
+        )
+
+    [primary_port] => 0
+    [local_ip] => 
+    [local_port] => 0
+    [http_version] => 0
+    [protocol] => 0
+    [ssl_verifyresult] => 0
+    [scheme] => 
+    [appconnect_time_us] => 0
+    [connect_time_us] => 0
+    [namelookup_time_us] => 0
+    [pretransfer_time_us] => 0
+    [redirect_time_us] => 0
+    [starttransfer_time_us] => 0
+    [total_time_us] => 0
+    [effective_method] => POST
+)
+
+Response: {"message":"Display updated successfully"}
+HTTP Code: 200
+Received data: Array
+(
+    [id] => 1
+)
+
+Payload: {"product_name":"Example Product 1","price":"99.99","timestamp":"2025-02-18 12:53:59"}
+cURL Options: Array
+(
+    [url] => http://192.168.37.66/update_display
+    [content_type] => 
+    [http_code] => 0
+    [header_size] => 0
+    [request_size] => 0
+    [filetime] => -1
+    [ssl_verify_result] => 0
+    [redirect_count] => 0
+    [total_time] => 0
+    [namelookup_time] => 0
+    [connect_time] => 0
+    [pretransfer_time] => 0
+    [size_upload] => 0
+    [size_download] => 0
+    [speed_download] => 0
+    [speed_upload] => 0
+    [download_content_length] => -1
+    [upload_content_length] => -1
+    [starttransfer_time] => 0
+    [redirect_time] => 0
+    [redirect_url] => 
+    [primary_ip] => 
+    [certinfo] => Array
+        (
+        )
+
+    [primary_port] => 0
+    [local_ip] => 
+    [local_port] => 0
+    [http_version] => 0
+    [protocol] => 0
+    [ssl_verifyresult] => 0
+    [scheme] => 
+    [appconnect_time_us] => 0
+    [connect_time_us] => 0
+    [namelookup_time_us] => 0
+    [pretransfer_time_us] => 0
+    [redirect_time_us] => 0
+    [starttransfer_time_us] => 0
+    [total_time_us] => 0
+    [effective_method] => POST
+)
+
+Response: {"message":"Display updated successfully"}
+HTTP Code: 200
+Received data: Array
+(
+    [id] => 3
+)
+
+Payload: {"product_name":"\u0e19\u0e49\u0e33\u0e41\u0e14\u0e07","price":"20.00","timestamp":"2025-02-18 08:02:47"}
+cURL Options: Array
+(
+    [url] => http://192.168.37.66/update_display
+    [content_type] => 
+    [http_code] => 0
+    [header_size] => 0
+    [request_size] => 0
+    [filetime] => -1
+    [ssl_verify_result] => 0
+    [redirect_count] => 0
+    [total_time] => 0
+    [namelookup_time] => 0
+    [connect_time] => 0
+    [pretransfer_time] => 0
+    [size_upload] => 0
+    [size_download] => 0
+    [speed_download] => 0
+    [speed_upload] => 0
+    [download_content_length] => -1
+    [upload_content_length] => -1
+    [starttransfer_time] => 0
+    [redirect_time] => 0
+    [redirect_url] => 
+    [primary_ip] => 
+    [certinfo] => Array
+        (
+        )
+
+    [primary_port] => 0
+    [local_ip] => 
+    [local_port] => 0
+    [http_version] => 0
+    [protocol] => 0
+    [ssl_verifyresult] => 0
+    [scheme] => 
+    [appconnect_time_us] => 0
+    [connect_time_us] => 0
+    [namelookup_time_us] => 0
+    [pretransfer_time_us] => 0
+    [redirect_time_us] => 0
+    [starttransfer_time_us] => 0
+    [total_time_us] => 0
+    [effective_method] => POST
+)
+
+Response: {"message":"Display updated successfully"}
+HTTP Code: 200
+Received data: Array
+(
+    [id] => 2
+)
+
+Payload: {"product_name":"\u0e2a\u0e34\u0e19\u0e04\u0e49\u0e321","price":"50.00","timestamp":"2025-02-18 12:54:54"}
+cURL Options: Array
+(
+    [url] => http://192.168.37.66/update_display
+    [content_type] => 
+    [http_code] => 0
+    [header_size] => 0
+    [request_size] => 0
+    [filetime] => -1
+    [ssl_verify_result] => 0
+    [redirect_count] => 0
+    [total_time] => 0
+    [namelookup_time] => 0
+    [connect_time] => 0
+    [pretransfer_time] => 0
+    [size_upload] => 0
+    [size_download] => 0
+    [speed_download] => 0
+    [speed_upload] => 0
+    [download_content_length] => -1
+    [upload_content_length] => -1
+    [starttransfer_time] => 0
+    [redirect_time] => 0
+    [redirect_url] => 
+    [primary_ip] => 
+    [certinfo] => Array
+        (
+        )
+
+    [primary_port] => 0
+    [local_ip] => 
+    [local_port] => 0
+    [http_version] => 0
+    [protocol] => 0
+    [ssl_verifyresult] => 0
+    [scheme] => 
+    [appconnect_time_us] => 0
+    [connect_time_us] => 0
+    [namelookup_time_us] => 0
+    [pretransfer_time_us] => 0
+    [redirect_time_us] => 0
+    [starttransfer_time_us] => 0
+    [total_time_us] => 0
+    [effective_method] => POST
+)
+
+Response: 
+HTTP Code: 0
+cURL Error: Failed to connect to 192.168.37.66 port 80 after 2440 ms: Couldn't connect to server
+Received data: Array
+(
+    [id] => 2
+)
+
+Payload: {"product_name":"\u0e2a\u0e34\u0e19\u0e04\u0e49\u0e321","price":"50.00","timestamp":"2025-02-18 12:54:54"}
+cURL Options: Array
+(
+    [url] => http://192.168.37.66/update_display
+    [content_type] => 
+    [http_code] => 0
+    [header_size] => 0
+    [request_size] => 0
+    [filetime] => -1
+    [ssl_verify_result] => 0
+    [redirect_count] => 0
+    [total_time] => 0
+    [namelookup_time] => 0
+    [connect_time] => 0
+    [pretransfer_time] => 0
+    [size_upload] => 0
+    [size_download] => 0
+    [speed_download] => 0
+    [speed_upload] => 0
+    [download_content_length] => -1
+    [upload_content_length] => -1
+    [starttransfer_time] => 0
+    [redirect_time] => 0
+    [redirect_url] => 
+    [primary_ip] => 
+    [certinfo] => Array
+        (
+        )
+
+    [primary_port] => 0
+    [local_ip] => 
+    [local_port] => 0
+    [http_version] => 0
+    [protocol] => 0
+    [ssl_verifyresult] => 0
+    [scheme] => 
+    [appconnect_time_us] => 0
+    [connect_time_us] => 0
+    [namelookup_time_us] => 0
+    [pretransfer_time_us] => 0
+    [redirect_time_us] => 0
+    [starttransfer_time_us] => 0
+    [total_time_us] => 0
+    [effective_method] => POST
+)
+
+Response: 
+HTTP Code: 0
+cURL Error: Failed to connect to 192.168.37.66 port 80 after 2445 ms: Couldn't connect to server
+Received data: Array
+(
+    [id] => 2
+)
+
+Payload: {"product_name":"\u0e2a\u0e34\u0e19\u0e04\u0e49\u0e321","price":"50.00","timestamp":"2025-02-18 12:54:54"}
+cURL Options: Array
+(
+    [url] => http://192.168.37.66/update_display
+    [content_type] => 
+    [http_code] => 0
+    [header_size] => 0
+    [request_size] => 0
+    [filetime] => -1
+    [ssl_verify_result] => 0
+    [redirect_count] => 0
+    [total_time] => 0
+    [namelookup_time] => 0
+    [connect_time] => 0
+    [pretransfer_time] => 0
+    [size_upload] => 0
+    [size_download] => 0
+    [speed_download] => 0
+    [speed_upload] => 0
+    [download_content_length] => -1
+    [upload_content_length] => -1
+    [starttransfer_time] => 0
+    [redirect_time] => 0
+    [redirect_url] => 
+    [primary_ip] => 
+    [certinfo] => Array
+        (
+        )
+
+    [primary_port] => 0
+    [local_ip] => 
+    [local_port] => 0
+    [http_version] => 0
+    [protocol] => 0
+    [ssl_verifyresult] => 0
+    [scheme] => 
+    [appconnect_time_us] => 0
+    [connect_time_us] => 0
+    [namelookup_time_us] => 0
+    [pretransfer_time_us] => 0
+    [redirect_time_us] => 0
+    [starttransfer_time_us] => 0
+    [total_time_us] => 0
+    [effective_method] => POST
+)
+
+Response: {"message":"Display updated successfully"}
+HTTP Code: 200
+Received data: Array
+(
+    [id] => 2
+)
+
+Received data: Array
+(
+    [id] => 1
+)
+
+Received data: Array
+(
+    [id] => 1
+)
+
+Received data: Array
+(
+    [row_id] => 5
+)
+
+Received data: Array
+(
+    [row_id] => 5
+)
+
+Received data: Array
+(
+    [row_id] => 5
+)
+
+Received data: Array
+(
+    [row_id] => 6
+)
+
+Received data: Array
+(
+    [id] => 1
+)
+
+Received data: Array
+(
+    [row_id] => 1
+)
+
+Received data: Array
+(
+    [row_id] => 8
+)
+
+Received data: Array
+(
+    [row_id] => 1
+)
+
+Payload: {"description":"\u0e19\u0e49\u0e33\u0e14\u0e37\u0e48\u0e21\u0e02\u0e27\u0e14\u0e40\u0e25\u0e47\u0e01","prc01":"10.00","chgdat":"2025-03-06"}
+cURL Options: Array
+(
+    [url] => http://192.168.37.80/update_display
+    [content_type] => 
+    [http_code] => 0
+    [header_size] => 0
+    [request_size] => 0
+    [filetime] => -1
+    [ssl_verify_result] => 0
+    [redirect_count] => 0
+    [total_time] => 0
+    [namelookup_time] => 0
+    [connect_time] => 0
+    [pretransfer_time] => 0
+    [size_upload] => 0
+    [size_download] => 0
+    [speed_download] => 0
+    [speed_upload] => 0
+    [download_content_length] => -1
+    [upload_content_length] => -1
+    [starttransfer_time] => 0
+    [redirect_time] => 0
+    [redirect_url] => 
+    [primary_ip] => 
+    [certinfo] => Array
+        (
+        )
+
+    [primary_port] => 0
+    [local_ip] => 
+    [local_port] => 0
+    [http_version] => 0
+    [protocol] => 0
+    [ssl_verifyresult] => 0
+    [scheme] => 
+    [appconnect_time_us] => 0
+    [connect_time_us] => 0
+    [namelookup_time_us] => 0
+    [pretransfer_time_us] => 0
+    [redirect_time_us] => 0
+    [starttransfer_time_us] => 0
+    [total_time_us] => 0
+    [effective_method] => POST
+)
+
+Received data: Array
+(
+    [row_id] => 10
+)
+
+Payload: {"description":"\u0e1b\u0e25\u0e32\u0e01\u0e23\u0e30\u0e1b\u0e4b\u0e2d\u0e07","prc01":"25.00","chgdat":"2025-03-06"}
+cURL Options: Array
+(
+    [url] => http://192.168.37.80/update_display
+    [content_type] => 
+    [http_code] => 0
+    [header_size] => 0
+    [request_size] => 0
+    [filetime] => -1
+    [ssl_verify_result] => 0
+    [redirect_count] => 0
+    [total_time] => 0
+    [namelookup_time] => 0
+    [connect_time] => 0
+    [pretransfer_time] => 0
+    [size_upload] => 0
+    [size_download] => 0
+    [speed_download] => 0
+    [speed_upload] => 0
+    [download_content_length] => -1
+    [upload_content_length] => -1
+    [starttransfer_time] => 0
+    [redirect_time] => 0
+    [redirect_url] => 
+    [primary_ip] => 
+    [certinfo] => Array
+        (
+        )
+
+    [primary_port] => 0
+    [local_ip] => 
+    [local_port] => 0
+    [http_version] => 0
+    [protocol] => 0
+    [ssl_verifyresult] => 0
+    [scheme] => 
+    [appconnect_time_us] => 0
+    [connect_time_us] => 0
+    [namelookup_time_us] => 0
+    [pretransfer_time_us] => 0
+    [redirect_time_us] => 0
+    [starttransfer_time_us] => 0
+    [total_time_us] => 0
+    [effective_method] => POST
+)
+
+Response: 
+HTTP Code: 0
+cURL Error: Failed to connect to 192.168.37.80 port 80 after 2868 ms: Couldn't connect to server
+Response: 
+HTTP Code: 0
+cURL Error: Failed to connect to 192.168.37.80 port 80 after 9766 ms: Couldn't connect to server
+Received data: Array
+(
+    [row_id] => 1
+)
+
+Payload: {"description":"\u0e19\u0e49\u0e33\u0e14\u0e37\u0e48\u0e21\u0e02\u0e27\u0e14\u0e40\u0e25\u0e47\u0e01","prc01":"10.00","chgdat":"2025-03-06"}
+cURL Options: Array
+(
+    [url] => http://192.168.37.80/update_display
+    [content_type] => 
+    [http_code] => 0
+    [header_size] => 0
+    [request_size] => 0
+    [filetime] => -1
+    [ssl_verify_result] => 0
+    [redirect_count] => 0
+    [total_time] => 0
+    [namelookup_time] => 0
+    [connect_time] => 0
+    [pretransfer_time] => 0
+    [size_upload] => 0
+    [size_download] => 0
+    [speed_download] => 0
+    [speed_upload] => 0
+    [download_content_length] => -1
+    [upload_content_length] => -1
+    [starttransfer_time] => 0
+    [redirect_time] => 0
+    [redirect_url] => 
+    [primary_ip] => 
+    [certinfo] => Array
+        (
+        )
+
+    [primary_port] => 0
+    [local_ip] => 
+    [local_port] => 0
+    [http_version] => 0
+    [protocol] => 0
+    [ssl_verifyresult] => 0
+    [scheme] => 
+    [appconnect_time_us] => 0
+    [connect_time_us] => 0
+    [namelookup_time_us] => 0
+    [pretransfer_time_us] => 0
+    [redirect_time_us] => 0
+    [starttransfer_time_us] => 0
+    [total_time_us] => 0
+    [effective_method] => POST
+)
+
+Response: 
+HTTP Code: 0
+cURL Error: Failed to connect to 192.168.37.80 port 80 after 13357 ms: Couldn't connect to server
+Received data: Array
+(
+    [row_id] => 7
+)
+
+Payload: {"description":"\u0e22\u0e32\u0e2a\u0e23\u0e30\u0e1c\u0e21","prc01":"45.00","chgdat":"2025-03-06"}
+cURL Options: Array
+(
+    [url] => http://192.168.37.80/update_display
+    [content_type] => 
+    [http_code] => 0
+    [header_size] => 0
+    [request_size] => 0
+    [filetime] => -1
+    [ssl_verify_result] => 0
+    [redirect_count] => 0
+    [total_time] => 0
+    [namelookup_time] => 0
+    [connect_time] => 0
+    [pretransfer_time] => 0
+    [size_upload] => 0
+    [size_download] => 0
+    [speed_download] => 0
+    [speed_upload] => 0
+    [download_content_length] => -1
+    [upload_content_length] => -1
+    [starttransfer_time] => 0
+    [redirect_time] => 0
+    [redirect_url] => 
+    [primary_ip] => 
+    [certinfo] => Array
+        (
+        )
+
+    [primary_port] => 0
+    [local_ip] => 
+    [local_port] => 0
+    [http_version] => 0
+    [protocol] => 0
+    [ssl_verifyresult] => 0
+    [scheme] => 
+    [appconnect_time_us] => 0
+    [connect_time_us] => 0
+    [namelookup_time_us] => 0
+    [pretransfer_time_us] => 0
+    [redirect_time_us] => 0
+    [starttransfer_time_us] => 0
+    [total_time_us] => 0
+    [effective_method] => POST
+)
+
+Response: {"message":"Display updated successfully"}
+HTTP Code: 200
+Received data: Array
+(
+    [row_id] => 11
+)
+
+Payload: {"description":"\u0e21\u0e32\u0e21\u0e48\u0e32\u0e23\u0e2a\u0e15\u0e49\u0e21\u0e22\u0e33\u0e01\u0e38\u0e49\u0e07","prc01":"6.00","chgdat":"2025-03-06"}
+cURL Options: Array
+(
+    [url] => http://192.168.37.80/update_display
+    [content_type] => 
+    [http_code] => 0
+    [header_size] => 0
+    [request_size] => 0
+    [filetime] => -1
+    [ssl_verify_result] => 0
+    [redirect_count] => 0
+    [total_time] => 0
+    [namelookup_time] => 0
+    [connect_time] => 0
+    [pretransfer_time] => 0
+    [size_upload] => 0
+    [size_download] => 0
+    [speed_download] => 0
+    [speed_upload] => 0
+    [download_content_length] => -1
+    [upload_content_length] => -1
+    [starttransfer_time] => 0
+    [redirect_time] => 0
+    [redirect_url] => 
+    [primary_ip] => 
+    [certinfo] => Array
+        (
+        )
+
+    [primary_port] => 0
+    [local_ip] => 
+    [local_port] => 0
+    [http_version] => 0
+    [protocol] => 0
+    [ssl_verifyresult] => 0
+    [scheme] => 
+    [appconnect_time_us] => 0
+    [connect_time_us] => 0
+    [namelookup_time_us] => 0
+    [pretransfer_time_us] => 0
+    [redirect_time_us] => 0
+    [starttransfer_time_us] => 0
+    [total_time_us] => 0
+    [effective_method] => POST
+)
+
+Response: {"message":"Display updated successfully"}
+HTTP Code: 200
+Received data: Array
+(
+    [row_id] => 1
+)
+
+Payload: {"description":"\u0e19\u0e49\u0e33\u0e14\u0e37\u0e48\u0e21\u0e02\u0e27\u0e14\u0e40\u0e25\u0e47\u0e01","prc01":"10.00","chgdat":"2025-03-06"}
+cURL Options: Array
+(
+    [url] => http://192.168.37.80/update_display
+    [content_type] => 
+    [http_code] => 0
+    [header_size] => 0
+    [request_size] => 0
+    [filetime] => -1
+    [ssl_verify_result] => 0
+    [redirect_count] => 0
+    [total_time] => 0
+    [namelookup_time] => 0
+    [connect_time] => 0
+    [pretransfer_time] => 0
+    [size_upload] => 0
+    [size_download] => 0
+    [speed_download] => 0
+    [speed_upload] => 0
+    [download_content_length] => -1
+    [upload_content_length] => -1
+    [starttransfer_time] => 0
+    [redirect_time] => 0
+    [redirect_url] => 
+    [primary_ip] => 
+    [certinfo] => Array
+        (
+        )
+
+    [primary_port] => 0
+    [local_ip] => 
+    [local_port] => 0
+    [http_version] => 0
+    [protocol] => 0
+    [ssl_verifyresult] => 0
+    [scheme] => 
+    [appconnect_time_us] => 0
+    [connect_time_us] => 0
+    [namelookup_time_us] => 0
+    [pretransfer_time_us] => 0
+    [redirect_time_us] => 0
+    [starttransfer_time_us] => 0
+    [total_time_us] => 0
+    [effective_method] => POST
+)
+
+Response: 
+HTTP Code: 0
+cURL Error: Failed to connect to 192.168.37.80 port 80 after 2424 ms: Couldn't connect to server
+Received data: Array
+(
+    [row_id] => 1
+)
+
+Payload: {"description":"\u0e19\u0e49\u0e33\u0e14\u0e37\u0e48\u0e21\u0e02\u0e27\u0e14\u0e40\u0e25\u0e47\u0e01","prc01":"10.00","chgdat":"2025-03-06"}
+cURL Options: Array
+(
+    [url] => http://192.168.37.80/update_display
+    [content_type] => 
+    [http_code] => 0
+    [header_size] => 0
+    [request_size] => 0
+    [filetime] => -1
+    [ssl_verify_result] => 0
+    [redirect_count] => 0
+    [total_time] => 0
+    [namelookup_time] => 0
+    [connect_time] => 0
+    [pretransfer_time] => 0
+    [size_upload] => 0
+    [size_download] => 0
+    [speed_download] => 0
+    [speed_upload] => 0
+    [download_content_length] => -1
+    [upload_content_length] => -1
+    [starttransfer_time] => 0
+    [redirect_time] => 0
+    [redirect_url] => 
+    [primary_ip] => 
+    [certinfo] => Array
+        (
+        )
+
+    [primary_port] => 0
+    [local_ip] => 
+    [local_port] => 0
+    [http_version] => 0
+    [protocol] => 0
+    [ssl_verifyresult] => 0
+    [scheme] => 
+    [appconnect_time_us] => 0
+    [connect_time_us] => 0
+    [namelookup_time_us] => 0
+    [pretransfer_time_us] => 0
+    [redirect_time_us] => 0
+    [starttransfer_time_us] => 0
+    [total_time_us] => 0
+    [effective_method] => POST
+)
+
+Response: 
+HTTP Code: 0
+cURL Error: Failed to connect to 192.168.37.80 port 80 after 2453 ms: Couldn't connect to server
+Received data: Array
+(
+    [row_id] => 11
+)
+
+Payload: {"description":"\u0e21\u0e32\u0e21\u0e48\u0e32\u0e23\u0e2a\u0e15\u0e49\u0e21\u0e22\u0e33\u0e01\u0e38\u0e49\u0e07","prc01":"6.00","chgdat":"2025-03-06"}
+cURL Options: Array
+(
+    [url] => http://192.168.37.80/update_display
+    [content_type] => 
+    [http_code] => 0
+    [header_size] => 0
+    [request_size] => 0
+    [filetime] => -1
+    [ssl_verify_result] => 0
+    [redirect_count] => 0
+    [total_time] => 0
+    [namelookup_time] => 0
+    [connect_time] => 0
+    [pretransfer_time] => 0
+    [size_upload] => 0
+    [size_download] => 0
+    [speed_download] => 0
+    [speed_upload] => 0
+    [download_content_length] => -1
+    [upload_content_length] => -1
+    [starttransfer_time] => 0
+    [redirect_time] => 0
+    [redirect_url] => 
+    [primary_ip] => 
+    [certinfo] => Array
+        (
+        )
+
+    [primary_port] => 0
+    [local_ip] => 
+    [local_port] => 0
+    [http_version] => 0
+    [protocol] => 0
+    [ssl_verifyresult] => 0
+    [scheme] => 
+    [appconnect_time_us] => 0
+    [connect_time_us] => 0
+    [namelookup_time_us] => 0
+    [pretransfer_time_us] => 0
+    [redirect_time_us] => 0
+    [starttransfer_time_us] => 0
+    [total_time_us] => 0
+    [effective_method] => POST
+)
+
+Response: {"message":"Display updated successfully"}
+HTTP Code: 200
+Received data: Array
+(
+    [row_id] => 10
+)
+
+Payload: {"description":"\u0e1b\u0e25\u0e32\u0e01\u0e23\u0e30\u0e1b\u0e4b\u0e2d\u0e07","prc01":"25.00","chgdat":"2025-03-06"}
+cURL Options: Array
+(
+    [url] => http://192.168.37.80/update_display
+    [content_type] => 
+    [http_code] => 0
+    [header_size] => 0
+    [request_size] => 0
+    [filetime] => -1
+    [ssl_verify_result] => 0
+    [redirect_count] => 0
+    [total_time] => 0
+    [namelookup_time] => 0
+    [connect_time] => 0
+    [pretransfer_time] => 0
+    [size_upload] => 0
+    [size_download] => 0
+    [speed_download] => 0
+    [speed_upload] => 0
+    [download_content_length] => -1
+    [upload_content_length] => -1
+    [starttransfer_time] => 0
+    [redirect_time] => 0
+    [redirect_url] => 
+    [primary_ip] => 
+    [certinfo] => Array
+        (
+        )
+
+    [primary_port] => 0
+    [local_ip] => 
+    [local_port] => 0
+    [http_version] => 0
+    [protocol] => 0
+    [ssl_verifyresult] => 0
+    [scheme] => 
+    [appconnect_time_us] => 0
+    [connect_time_us] => 0
+    [namelookup_time_us] => 0
+    [pretransfer_time_us] => 0
+    [redirect_time_us] => 0
+    [starttransfer_time_us] => 0
+    [total_time_us] => 0
+    [effective_method] => POST
+)
+
+Response: {"message":"Display updated successfully"}
+HTTP Code: 200
+Received data: Array
+(
+    [row_id] => 14
+)
+
+Payload: {"description":"\u0e19\u0e49\u0e33\u0e15\u0e32\u0e25\u0e17\u0e23\u0e32\u0e22 1 \u0e01\u0e01.","prc01":"28.00","chgdat":"2025-03-06"}
+cURL Options: Array
+(
+    [url] => http://192.168.37.80/update_display
+    [content_type] => 
+    [http_code] => 0
+    [header_size] => 0
+    [request_size] => 0
+    [filetime] => -1
+    [ssl_verify_result] => 0
+    [redirect_count] => 0
+    [total_time] => 0
+    [namelookup_time] => 0
+    [connect_time] => 0
+    [pretransfer_time] => 0
+    [size_upload] => 0
+    [size_download] => 0
+    [speed_download] => 0
+    [speed_upload] => 0
+    [download_content_length] => -1
+    [upload_content_length] => -1
+    [starttransfer_time] => 0
+    [redirect_time] => 0
+    [redirect_url] => 
+    [primary_ip] => 
+    [certinfo] => Array
+        (
+        )
+
+    [primary_port] => 0
+    [local_ip] => 
+    [local_port] => 0
+    [http_version] => 0
+    [protocol] => 0
+    [ssl_verifyresult] => 0
+    [scheme] => 
+    [appconnect_time_us] => 0
+    [connect_time_us] => 0
+    [namelookup_time_us] => 0
+    [pretransfer_time_us] => 0
+    [redirect_time_us] => 0
+    [starttransfer_time_us] => 0
+    [total_time_us] => 0
+    [effective_method] => POST
+)
+
+Response: {"message":"Display updated successfully"}
+HTTP Code: 200
+Received data: Array
+(
+    [row_id] => 1
+)
+
+Payload: {"description":"\u0e19\u0e49\u0e33\u0e14\u0e37\u0e48\u0e21\u0e02\u0e27\u0e14\u0e40\u0e25\u0e47\u0e01","prc01":"10.00","chgdat":"2025-03-06"}
+cURL Options: Array
+(
+    [url] => http://192.168.37.80/update_display
+    [content_type] => 
+    [http_code] => 0
+    [header_size] => 0
+    [request_size] => 0
+    [filetime] => -1
+    [ssl_verify_result] => 0
+    [redirect_count] => 0
+    [total_time] => 0
+    [namelookup_time] => 0
+    [connect_time] => 0
+    [pretransfer_time] => 0
+    [size_upload] => 0
+    [size_download] => 0
+    [speed_download] => 0
+    [speed_upload] => 0
+    [download_content_length] => -1
+    [upload_content_length] => -1
+    [starttransfer_time] => 0
+    [redirect_time] => 0
+    [redirect_url] => 
+    [primary_ip] => 
+    [certinfo] => Array
+        (
+        )
+
+    [primary_port] => 0
+    [local_ip] => 
+    [local_port] => 0
+    [http_version] => 0
+    [protocol] => 0
+    [ssl_verifyresult] => 0
+    [scheme] => 
+    [appconnect_time_us] => 0
+    [connect_time_us] => 0
+    [namelookup_time_us] => 0
+    [pretransfer_time_us] => 0
+    [redirect_time_us] => 0
+    [starttransfer_time_us] => 0
+    [total_time_us] => 0
+    [effective_method] => POST
+)
+
+Response: 
+HTTP Code: 0
+cURL Error: Failed to connect to 192.168.37.80 port 80 after 2531 ms: Couldn't connect to server
+Received data: Array
+(
+    [row_id] => 1
+)
+
+Payload: {"description":"\u0e19\u0e49\u0e33\u0e14\u0e37\u0e48\u0e21\u0e02\u0e27\u0e14\u0e40\u0e25\u0e47\u0e01","prc01":"10.00","chgdat":"2025-03-06"}
+cURL Options: Array
+(
+    [url] => http://192.168.37.80/update_display
+    [content_type] => 
+    [http_code] => 0
+    [header_size] => 0
+    [request_size] => 0
+    [filetime] => -1
+    [ssl_verify_result] => 0
+    [redirect_count] => 0
+    [total_time] => 0
+    [namelookup_time] => 0
+    [connect_time] => 0
+    [pretransfer_time] => 0
+    [size_upload] => 0
+    [size_download] => 0
+    [speed_download] => 0
+    [speed_upload] => 0
+    [download_content_length] => -1
+    [upload_content_length] => -1
+    [starttransfer_time] => 0
+    [redirect_time] => 0
+    [redirect_url] => 
+    [primary_ip] => 
+    [certinfo] => Array
+        (
+        )
+
+    [primary_port] => 0
+    [local_ip] => 
+    [local_port] => 0
+    [http_version] => 0
+    [protocol] => 0
+    [ssl_verifyresult] => 0
+    [scheme] => 
+    [appconnect_time_us] => 0
+    [connect_time_us] => 0
+    [namelookup_time_us] => 0
+    [pretransfer_time_us] => 0
+    [redirect_time_us] => 0
+    [starttransfer_time_us] => 0
+    [total_time_us] => 0
+    [effective_method] => POST
+)
+
+Response: 
+HTTP Code: 0
+cURL Error: Failed to connect to 192.168.37.80 port 80 after 21072 ms: Couldn't connect to server
+Received data: Array
+(
+    [row_id] => 12
+)
+
+Payload: {"description":"\u0e0b\u0e2d\u0e2a\u0e21\u0e30\u0e40\u0e02\u0e37\u0e2d\u0e40\u0e17\u0e28","prc01":"30.00","chgdat":"2025-03-06"}
+cURL Options: Array
+(
+    [url] => http://192.168.1.2/update_display
+    [content_type] => 
+    [http_code] => 0
+    [header_size] => 0
+    [request_size] => 0
+    [filetime] => -1
+    [ssl_verify_result] => 0
+    [redirect_count] => 0
+    [total_time] => 0
+    [namelookup_time] => 0
+    [connect_time] => 0
+    [pretransfer_time] => 0
+    [size_upload] => 0
+    [size_download] => 0
+    [speed_download] => 0
+    [speed_upload] => 0
+    [download_content_length] => -1
+    [upload_content_length] => -1
+    [starttransfer_time] => 0
+    [redirect_time] => 0
+    [redirect_url] => 
+    [primary_ip] => 
+    [certinfo] => Array
+        (
+        )
+
+    [primary_port] => 0
+    [local_ip] => 
+    [local_port] => 0
+    [http_version] => 0
+    [protocol] => 0
+    [ssl_verifyresult] => 0
+    [scheme] => 
+    [appconnect_time_us] => 0
+    [connect_time_us] => 0
+    [namelookup_time_us] => 0
+    [pretransfer_time_us] => 0
+    [redirect_time_us] => 0
+    [starttransfer_time_us] => 0
+    [total_time_us] => 0
+    [effective_method] => POST
+)
+
+Response: {"message":"Display updated successfully"}
+HTTP Code: 200
+Received data: Array
+(
+    [row_id] => 5
+)
+
+Payload: {"description":"\u0e02\u0e19\u0e21\u0e02\u0e1a\u0e40\u0e04\u0e35\u0e49\u0e22\u0e27","prc01":"20.00","chgdat":"2025-03-06"}
+cURL Options: Array
+(
+    [url] => http://192.168.1.2/update_display
+    [content_type] => 
+    [http_code] => 0
+    [header_size] => 0
+    [request_size] => 0
+    [filetime] => -1
+    [ssl_verify_result] => 0
+    [redirect_count] => 0
+    [total_time] => 0
+    [namelookup_time] => 0
+    [connect_time] => 0
+    [pretransfer_time] => 0
+    [size_upload] => 0
+    [size_download] => 0
+    [speed_download] => 0
+    [speed_upload] => 0
+    [download_content_length] => -1
+    [upload_content_length] => -1
+    [starttransfer_time] => 0
+    [redirect_time] => 0
+    [redirect_url] => 
+    [primary_ip] => 
+    [certinfo] => Array
+        (
+        )
+
+    [primary_port] => 0
+    [local_ip] => 
+    [local_port] => 0
+    [http_version] => 0
+    [protocol] => 0
+    [ssl_verifyresult] => 0
+    [scheme] => 
+    [appconnect_time_us] => 0
+    [connect_time_us] => 0
+    [namelookup_time_us] => 0
+    [pretransfer_time_us] => 0
+    [redirect_time_us] => 0
+    [starttransfer_time_us] => 0
+    [total_time_us] => 0
+    [effective_method] => POST
+)
+
+Response: {"message":"Display updated successfully"}
+HTTP Code: 200
+Received data: Array
+(
+    [row_id] => 1
+)
+
+Payload: {"description":"\u0e19\u0e49\u0e33\u0e14\u0e37\u0e48\u0e21\u0e02\u0e27\u0e14\u0e40\u0e25\u0e47\u0e01","prc01":"10.00","chgdat":"2025-03-06"}
+cURL Options: Array
+(
+    [url] => http://192.168.1.2/update_display
+    [content_type] => 
+    [http_code] => 0
+    [header_size] => 0
+    [request_size] => 0
+    [filetime] => -1
+    [ssl_verify_result] => 0
+    [redirect_count] => 0
+    [total_time] => 0
+    [namelookup_time] => 0
+    [connect_time] => 0
+    [pretransfer_time] => 0
+    [size_upload] => 0
+    [size_download] => 0
+    [speed_download] => 0
+    [speed_upload] => 0
+    [download_content_length] => -1
+    [upload_content_length] => -1
+    [starttransfer_time] => 0
+    [redirect_time] => 0
+    [redirect_url] => 
+    [primary_ip] => 
+    [certinfo] => Array
+        (
+        )
+
+    [primary_port] => 0
+    [local_ip] => 
+    [local_port] => 0
+    [http_version] => 0
+    [protocol] => 0
+    [ssl_verifyresult] => 0
+    [scheme] => 
+    [appconnect_time_us] => 0
+    [connect_time_us] => 0
+    [namelookup_time_us] => 0
+    [pretransfer_time_us] => 0
+    [redirect_time_us] => 0
+    [starttransfer_time_us] => 0
+    [total_time_us] => 0
+    [effective_method] => POST
+)
+
+Response: 
+HTTP Code: 0
+cURL Error: Failed to connect to 192.168.1.2 port 80 after 2215 ms: Couldn't connect to server
+Received data: Array
+(
+    [row_id] => 5
+)
+
+Payload: {"description":"\u0e02\u0e19\u0e21\u0e02\u0e1a\u0e40\u0e04\u0e35\u0e49\u0e22\u0e27","prc01":"20.00","chgdat":"2025-03-06"}
+cURL Options: Array
+(
+    [url] => http://192.168.1.2/update_display
+    [content_type] => 
+    [http_code] => 0
+    [header_size] => 0
+    [request_size] => 0
+    [filetime] => -1
+    [ssl_verify_result] => 0
+    [redirect_count] => 0
+    [total_time] => 0
+    [namelookup_time] => 0
+    [connect_time] => 0
+    [pretransfer_time] => 0
+    [size_upload] => 0
+    [size_download] => 0
+    [speed_download] => 0
+    [speed_upload] => 0
+    [download_content_length] => -1
+    [upload_content_length] => -1
+    [starttransfer_time] => 0
+    [redirect_time] => 0
+    [redirect_url] => 
+    [primary_ip] => 
+    [certinfo] => Array
+        (
+        )
+
+    [primary_port] => 0
+    [local_ip] => 
+    [local_port] => 0
+    [http_version] => 0
+    [protocol] => 0
+    [ssl_verifyresult] => 0
+    [scheme] => 
+    [appconnect_time_us] => 0
+    [connect_time_us] => 0
+    [namelookup_time_us] => 0
+    [pretransfer_time_us] => 0
+    [redirect_time_us] => 0
+    [starttransfer_time_us] => 0
+    [total_time_us] => 0
+    [effective_method] => POST
+)
+
+Response: {"message":"Display updated successfully"}
+HTTP Code: 200
+Received data: Array
+(
+    [row_id] => 0
+)
+
+Received data: Array
+(
+    [row_id] => 0
+)
+
+Received data: Array
+(
+    [row_id] => 0
+)
+
+Received data: Array
+(
+)
+
+Received data: Array
+(
+    [row_id] => " . $row[
+)
+
+Received data: Array
+(
+    [row_id] => 11
+)
+
+Received data: Array
+(
+    [row_id] => 9
+)
+
+Received data: Array
+(
+    [row_id] => 1
+)
+
+Received data: Array
+(
+    [row_id] => 1
+)
+
+Received data: Array
+(
+    [row_id] => 5
+)
+
+Received data: Array
+(
+    [row_id] => 3
+)
+
+Received data: Array
+(
+    [row_id] => 5
+)
+
+Received data: Array
+(
+    [row_id] => 1
+)
+
+Received data: Array
+(
+    [row_id] => 2
+)
+
+Received data: Array
+(
+)
+
+Received data: Array
+(
+    [row_id] => 1
+)
+
+Received data: Array
+(
+)
+
+Received data: Array
+(
+    [row_id] => 3
+)
+
+Received data: Array
+(
+    [row_id] => 4
+)
+
+Received data: Array
+(
+    [row_id] => 3
+)
+
+Received data: Array
+(
+    [row_id] => 3
+)
+
+Received data: Array
+(
+    [row_id] => 5
+)
+
+Received data: Array
+(
+    [row_id] => 6
+)
+
+Received data: Array
+(
+    [row_id] => 3
+)
+
+Received data: Array
+(
+    [row_id] => 4
+)
+

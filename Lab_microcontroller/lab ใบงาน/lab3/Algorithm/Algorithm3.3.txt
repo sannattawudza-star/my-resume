@@ -1,0 +1,27 @@
+Algorithm 3.4
+Variable led,i;
+
+Begin setup	
+	 for led=0 to led=7 led++
+	 	set pin led(i)=OUTPUT
+	 	set output logic=1
+	 End for
+End setup
+Begin loop
+	 for led=0 to 7 led+=2 
+		set output logic=0
+		set delay=250
+		set output logic=1
+		set delay=250
+	  End for
+	  for led=1 to 7 led+=2
+		set output logic=0
+		set delay=250
+		set output logic=1
+		set delay=250
+	  End for
+End loop
+	 
+	
+	  
+	
